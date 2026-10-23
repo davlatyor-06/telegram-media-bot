@@ -1,0 +1,6 @@
+aiogram>=3.17.0
+yt-dlp>=2026.10.0
+python-dotenv>=1.0.1
+aiohttp>=3.10.0
+aiofiles>=24.1.0
+imageio-ffmpeg>=0.5.1
